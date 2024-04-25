@@ -1,5 +1,5 @@
 import React from "react";
-
+import {image} from '../datauser';
 function About() {
   return (
     <div id="about">
